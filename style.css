@@ -17,8 +17,19 @@ h4{
     font-weight: 600;
     font-size: 40px;
 }
-.half width{
-    width: 40%;
-    display: inline-block;
+.half-width{
+    width: 50%;
+    float: left;
+    
+    
 
+}
+.half-width img{
+    width:500px;
+    margin: 4px;
+    padding: 4px;
+}
+.align{
+    margin: 2px 2px;
+    text-align: justify;
 }
