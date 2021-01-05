@@ -1,5 +1,5 @@
 body{
-    font-family: 'Yellowtail', cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
     
@@ -30,6 +30,15 @@ h4{
     padding: 4px;
 }
 .align{
-    margin: 2px 2px;
-    text-align: justify;
+    margin: 4px 2px 4px 2px;
+    padding: 20px 10px 20px 10px;
+    text-align: start;
+}
+h1{
+    border:10px thin azure;
+    padding: 20px 10px 20px 10px;
+}
+h2{
+    border: 10px thin azure;
+    padding: 20px 10px 20px 10px;
 }
