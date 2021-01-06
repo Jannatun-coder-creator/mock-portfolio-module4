@@ -19,7 +19,7 @@ h4{
 }
 .half-width{
     width: 50%;
-    float: left;
+    
     
     
 
@@ -41,4 +41,8 @@ h1{
 h2{
     border: 10px thin azure;
     padding: 20px 10px 20px 10px;
+}
+.top-banner{
+    background-image:url(developer-portfolio/top-banner.png) ;
+    background-repeat: no-repeat;
 }
