@@ -20,12 +20,13 @@ h4{
 }
 .half-width{
     width: 50%;
-    float: left;
+    
 }
 .half-width img{
     width:500px;
     margin: 4px;
     padding: 4px;
+    float: right;
 }
 .align{
     margin: 4px 2px 4px 2px;
@@ -44,7 +45,6 @@ h2{
     background-image:url(developer-portfolio/top-banner.png) ;
     background-repeat: no-repeat;
 }
-section{
-    height: 500px;
 
-}
+
+
